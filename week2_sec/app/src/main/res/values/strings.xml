@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">week2_sec</string>
+    <string name="app_name">guess_number</string>
+    <string name="guess">Guess</string>
+    <string name="reset">Reset</string>
+    <string name="title">Guess number !</string>
+    <string name="show_hint">Please input an number</string>
 </resources>
